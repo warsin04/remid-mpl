@@ -184,7 +184,7 @@ class MyApp extends StatelessWidget {
                   width: 300, // Adjust the width of the card
                   height: 150, // Adjust the height of the card
                   child: Card(
-                    color: Colors.blueAccent,
+                    color: Colors.white,
                     child: Center(
                       child: Column(
                         mainAxisAlignment: MainAxisAlignment.center,
